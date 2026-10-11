@@ -42,4 +42,6 @@ ANTI is a single-file C++ tool that does exactly three things:
 
 ANTI does not promise absolute anonymity. It does one thing: **give you the ability to say "no" to Microsoft.**
 
+<img width="615" height="431" alt="{786D670C-436E-4612-97F9-F5F951A65DD9}" src="https://github.com/user-attachments/assets/3db5e63c-6b26-45f7-92e2-a58a117717ea" />
+
 ## In ANTI.md, you can see the addresses of some related projects.
